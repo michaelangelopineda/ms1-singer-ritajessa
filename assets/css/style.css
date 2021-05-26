@@ -22,6 +22,8 @@ header {
     color: white;
 }
 
+
+
 .nav-link {
     letter-spacing: 5px;
     font-family: Poppins, sans-serif;
@@ -49,6 +51,8 @@ span .navbar-toggler-icon {
 .navbar-light .navbar-toggler {
     margin-right: 20px;
 }
+
+
 
 /*-------------------------------------------------------------- Footer ---*/
 
