@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300,500&family=Roboto:wght@100&display=swap');
 
-
 /*----------------------------------------------------Header*/
 header {
     margin: auto 0;
@@ -29,7 +28,6 @@ header {
     margin-right: 10px;
 }
 
-
 span .navbar-toggler-icon {
     margin-right: 20px;
 }
@@ -51,3 +49,88 @@ span .navbar-toggler-icon {
 .navbar-light .navbar-toggler {
     margin-right: 20px;
 }
+
+/*-------------------------------------------------------------- Footer ---*/
+
+footer {
+    background-color: #00C9CD;
+    font-size: 30px;
+    color: black;
+}
+
+.list-inline-item i,
+.input-group {
+    padding-top: 20px;
+    color: black;
+}
+
+.list-inline-item i {
+    letter-spacing: 25px;
+}
+
+.list-inline-item i:hover {
+    color: white;
+}
+
+.input-group>.form-control,
+.input-group>.form-select {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    font-weight: 500;
+    background-color: #dde9e6;
+    font-family: Poppins, sans-serif;
+}
+
+.list-inline {
+    display: inline-block;
+}
+
+/*----------------------------------------------------- My Music*/
+.music {
+    background-color: #E6F4F1;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+/*----------------------------------------------------- My Video*/
+body .release {
+    background-color: rgb(157, 177, 212);
+}
+
+video source {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+video {
+    max-width: 80%;
+    height: auto;
+}
+
+/*----------------------------------------------------- Events*/
+
+.events {
+    background-color: #eeaf90;
+}
+
+/*----------------------------------------------------- Bio Page*/
+
