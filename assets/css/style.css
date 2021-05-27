@@ -94,6 +94,7 @@ footer {
     font-weight: 500;
     background-color: #dde9e6;
     font-family: Poppins, sans-serif;
+    color: black;
 }
 
 .list-inline {
@@ -142,3 +143,11 @@ body .photos {
     background-color: rgb(157, 177, 212);
 }
 
+
+/*----------------------------------------------------- Contact Page*/
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
